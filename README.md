@@ -14,18 +14,20 @@ Key Features of the Dashboard:
 
 - Comprehensive Sentiment Overview:
 
-Provides a detailed breakdown of sentiment scores (positive, neutral, negative) across multiple social media platforms, offering a high-level summary of public opinion related to the brand.
+  Provides a detailed breakdown of sentiment scores (positive, neutral, negative) across multiple social media platforms, offering a high-level summary of public opinion related to the brand.
 Dynamic Filtering and Interaction:
 
 - Sentiment Categories:
 
 Enables users to filter the data by sentiment type (positive, neutral, negative) for targeted analysis of public reactions.
+
 Platform-Specific Insights: Interactive filters allow for detailed exploration of sentiment by platform (e.g., Twitter, Instagram, Facebook), providing granular insights into platform-specific brand perceptions.
 Sentiment Distribution Visualization:
 
 - Stacked Column Chart: 
 
 Presents a comparative analysis of sentiment scores by key phrases, hashtags, or topics, allowing users to assess the impact of specific social media campaigns or trending discussions.
+
 Pie Chart: Offers a visual representation of sentiment distribution (positive, neutral, negative), providing an at-a-glance understanding of sentiment proportions across platforms and over time.
 
 - Real-Time Sentiment Tracking:
@@ -33,6 +35,7 @@ Pie Chart: Offers a visual representation of sentiment distribution (positive, n
 Sentiment Over Time: 
 
 Tracks sentiment fluctuations in real-time, offering visibility into how public sentiment evolves in response to ongoing events, marketing campaigns, or product launches.
+
 Time-Sensitive Insights: Displays the average sentiment score over selected time frames, ensuring timely and data-driven decision-making.
 
 - Detailed Keyword and Hashtag Analysis:
