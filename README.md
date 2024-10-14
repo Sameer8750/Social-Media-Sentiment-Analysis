@@ -52,6 +52,10 @@ Tracks sentiment fluctuations in real-time, offering visibility into how public 
 
 ## 📊 Dashboard Preview:
 
+![image](https://github.com/user-attachments/assets/a889219b-4367-43d4-9c71-5b572291386b)
+
+
+
 
 
 
