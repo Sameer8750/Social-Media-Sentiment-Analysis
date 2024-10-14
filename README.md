@@ -54,6 +54,63 @@ Tracks sentiment fluctuations in real-time, offering visibility into how public 
 
 ![image](https://github.com/user-attachments/assets/a889219b-4367-43d4-9c71-5b572291386b)
 
+## 🚀 Key Metrics:
+
+**Average Sentiment Score:** 
+
+- Shows the overall sentiment (positive, neutral, negative) related to the brand across different social media platforms.
+ 
+**Sentiment Categories:**
+
+Breaks down sentiment into categories such as:
+- Positive
+- Neutral
+- Negative
+
+**Hashtag & Keyword Influence:**
+
+Highlights trending hashtags and keywords influencing the brand sentiment.
+
+**Sentiment Over Time:**
+
+- Tracks sentiment changes over time, showing how brand perception has evolved.
+
+**Count of Social Media Mentions:**
+
+- Displays the number of mentions for each sentiment category, revealing the public's current mood regarding the brand.
+
+## 🧰 Tools Used:
+
+- Power BI (for visualization)
+- DAX (for advanced calculations)
+- Python (used in the accompanying Jupyter Notebook for sentiment analysis using machine learning)
+- NLP libraries (Natural Language Toolkit (NLTK), scikit-learn for sentiment classification)
+
+## 💡 Insights:
+
+- Public Opinion Trends: The dashboard reveals key patterns in public sentiment across multiple platforms, including Twitter, Instagram, and Facebook.
+- Real-Time Sentiment: Using real-time data sources (Apache Spark, Elasticsearch, and Kibana), the dashboard reflects immediate changes in public opinion after significant brand-related events.
+- Keyword and Hashtag Influence: Identifies the most frequent keywords and hashtags driving sentiment, helping brands track key influencers and viral trends.
+
+## 🛠️ Setup and Usage:
+
+**1. Clone the repository :**
+
+```bash
+    https://github.com/Sameer8750/vervebridge_Task2
+```
+
+**Analyze with Python:** 
+
+- Dive into the sentiment analysis using Python by opening the provided Jupyter notebook:
+
+```bash
+File: Social_Media_Sentiment_Analysis.ipynb
+```
+
+- This notebook contains the steps for processing the sentiment data, performing machine learning-based sentiment classification, and generating insights.
+
+
 
 
 
