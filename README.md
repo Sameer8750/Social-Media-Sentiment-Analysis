@@ -14,7 +14,7 @@ Key Features of the Dashboard:
 
 - Comprehensive Sentiment Overview:
 
-  Provides a detailed breakdown of sentiment scores (positive, neutral, negative) across multiple social media platforms, offering a high-level summary of public opinion related to the brand.
+_  Provides a detailed breakdown of sentiment scores (positive, neutral, negative) across multiple social media platforms, offering a high-level summary of public opinion related to the brand.
 Dynamic Filtering and Interaction:
 
 - Sentiment Categories:
