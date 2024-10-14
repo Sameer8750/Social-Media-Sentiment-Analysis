@@ -105,10 +105,23 @@ Highlights trending hashtags and keywords influencing the brand sentiment.
 - Dive into the sentiment analysis using Python by opening the provided Jupyter notebook:
 
 ```bash
-File: Social_Media_Sentiment_Analysis.ipynb
+Social_Media_Sentiment_Analysis.ipynb
 ```
 
 - This notebook contains the steps for processing the sentiment data, performing machine learning-based sentiment classification, and generating insights.
+
+**Install Dependencies:**
+
+- To ensure the Python notebook runs smoothly, install the required packages:
+
+```bash
+    pip install pandas numpy matplotlib seaborn scikit-learn nltk
+```
+
+**Exploring the Insights:**
+
+- Use the Power BI dashboard to explore interactive visualizations such as sentiment trends over time, key phrase analysis, platform-based insights, and confidence levels in sentiment classification.
+- Adjust filters for platform-specific or sentiment-based views to gain deeper insights into brand reputation.
 
 
 
