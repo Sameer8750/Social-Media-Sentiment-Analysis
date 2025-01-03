@@ -37,7 +37,8 @@ Key Features of the Dashboard:
 
 ## 📊 Dashboard Preview:
 
-![image](https://github.com/user-attachments/assets/a889219b-4367-43d4-9c71-5b572291386b)
+![Screenshot (36)](https://github.com/user-attachments/assets/770966e9-61d8-4554-9c2d-5b4231acc49c)
+
 
 ## 🚀 Key Metrics:
 
